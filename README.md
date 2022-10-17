@@ -1,10 +1,13 @@
-# 🚀Starter ReactJS boilerplate 
+# 🚀Starter ReactJS boilerplate
+
 #### Boilerplate contains:
+
 - TypeScript
 - Eslint (with airbnb config)
 - Prettier
 
 ### Available Scripts
+
 ```
 yarn start
 yarn build
